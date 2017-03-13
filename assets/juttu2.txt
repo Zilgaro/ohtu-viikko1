@@ -1,1 +1,2 @@
-Tässä on toinen juttu directoryn sisällä
+Tässä on toinen juttu directoryn sisällä jota on myös muokattu
+
