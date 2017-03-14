@@ -6,6 +6,9 @@ public class Main {
 
         Varasto mehua = new Varasto(100.0);
         Varasto olutta = new Varasto(100.0, 20.2);
+        Varasto hulluutta = new Varasto(-10.0, 5.0);
+        
+        System.out.println("Hulluutta: " + hulluutta);
 
         System.out.println("Luonnin jälkeen:");
         System.out.println("Mehuvarasto: " + mehua);
