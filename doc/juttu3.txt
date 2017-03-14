@@ -1,1 +1,1 @@
-Tässä on kolmas juttu directoryn sisällä
+Tässä on kolmas juttu directoryn sisällä jota muutetaan -p:tä varten
